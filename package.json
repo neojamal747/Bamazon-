@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Homework - a node and SQL app to handle and track customer orders",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neojamal747/Bamazon-"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neojamal747/Bamazon/issues"
+  },
+  "homepage": "https://github.com/neojamal747/Bamazon/readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "inquirer": "^1.1.2",
+    "mysql": "^2.11.1",
+    "prompt": "^1.0.0"
+  }
+}
